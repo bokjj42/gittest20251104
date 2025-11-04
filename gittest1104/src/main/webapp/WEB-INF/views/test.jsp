@@ -10,9 +10,8 @@
 test.jsp
 test2.jsp
 
-spring update2
-
-github update2
+spring update
+github update
 </body>
 
 </html>
